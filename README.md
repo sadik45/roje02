@@ -1,11 +1,3 @@
-# roje02
-# roje02
-# roje02
-# ilksunum
-# ilksunum
-# ilksunum
-# ilksunum
-# ilksunum
-# ilksunum
-# ilksunum
-# roje02
+# github
+<h1>Proje2<h1>
+<p><img src=https://github.com/sadik45/roje02/blob/main/proje2.mp4/></p>
